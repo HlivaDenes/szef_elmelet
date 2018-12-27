@@ -1,7 +1,6 @@
-# Szerverek és felhőszolgáltatások tantárgy elmélet: Linux
+# Szerverek és felhőszolgáltatások tantárgy elmélet: Linux  31 hét
 ### Windows + Linux: 93 óra
-heti 2 óra: 62 óra
-heti 3 óra: 93 óra
+heti 2 óra: 62 óra, heti 3 óra: 93 óra
 
 
             18.3.2. Linux kiszolgáló telepítése és üzemeltetése
