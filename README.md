@@ -69,3 +69,41 @@ heti 3 óra: 93 óra
 –	Fájlmegosztás
 –	Menedzselt adattárolási megoldások
 –	Adatbázisok
+<br>
+
+### FELADATOK:
+1. Meghatározza a hálózati kiszolgáló funkciójának és várható terhelésének megfelelő fizikai vagy infrastruktúra szolgáltatásként elérhető hardvert
+2. Redundanciát és magas rendelkezésre állást biztosító tároló rendszert telepít és konfigurál
+3. Kiválasztja a működési körülményeknek legmegfelelőbb hálózati operációs rendszer változatot, illetve disztribúciót
+4. Hálózati címtárszolgáltatást telepít, konfigurál és üzemeltet; felhasználókat és csoportokat hoz létre, jelszókezelést végez; hálózati csoportházirendet tervez meg és alkalmaz
+5. Hálózati mentési és visszaállítási feladatot tervez meg és hajt végre
+6. Monitorozza és felügyeli a hálózati operációs rendszer és az ügyfelek működését, naplózási beállításokat végez, naplófájlokat elemez
+7. Egymással együttműködő és egymást kiegészítő funkciójú Windows és Linux kiszolgálót egyaránt tartalmazó rendszert tervez, konfigurál és üzemeltet
+
+### SZAKMAI ISMERETEK
+1. Hálózati operációsrendszerek telepítési módjai
+2. Tárolórendszerek típusai működési elvük
+3. Címtárszolgáltatáshoz tartozó fogalmak
+4. Csoportházirend fogalma
+5. Magas rendelkezésre állás biztosítása
+6. Hálózati címzés és címkiosztás (IPv4 és IPv6 címzés)
+7. Szoftveres tűzfal és egyéb biztonsági beállítások
+8. DNS alapok
+9. Távoli elérést biztosító technológiák
+10. Hálózati hozzáférést szabályozó technológiák
+11. Nyomtató kiszolgálás
+12. Fájl kiszolgálás
+13. Web- és FTP kiszolgálás
+14. E-mail kiszolgálás
+15. Adatbázis kiszolgálás
+16. Hálózat felügyelet és a hibaelhárítás
+17. Virtualizált környezet és hálózat, illetve virtuális gépek telepítése és beállítása
+18. Privát felhő, nyilvános felhő, hibrid felhő jellemzői
+19. Szoftver szolgáltatás (Software as a Service), platform szolgáltatás (Platform as a Service), infrastruktúra szolgáltatás (Infrastructure as a Service)
+
+#### SZAKMAI KÉSZSÉGEK
+1. Bináris számrendszer használata
+2. IP-címzés
+3. Angol nyelvű, olvasott szakmai szöveg megértése és felhasználása
+
+
