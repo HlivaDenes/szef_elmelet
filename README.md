@@ -3,7 +3,7 @@
 heti 2 óra: 62 óra, heti 3 óra: 93 óra
 
 
-            18.3.2. Linux kiszolgáló telepítése és üzemeltetése
+            18.3.2. Linux kiszolgáló telepítése és üzemeltetése  33 óra
 1. A szerver hardverkövetelményének meghatározása
 1. A szerver betöltési folyamatának áttekintése
 1. A futási szintek meghatározása, azok funkciói
@@ -37,7 +37,7 @@ heti 2 óra: 62 óra, heti 3 óra: 93 óra
 1. Levelezési szolgáltatások (SMTP protokoll, postfix, sendmail, exim, POP3, IMAP)
 <br>
 
-            18.3.3. Linux és Windows alapú rendszerek integrációja
+            18.3.3. Linux és Windows alapú rendszerek integrációja 12 óra
 1. Windows és Linux rendszerek együttműködése
 1. Szabványos TCP/IP szolgáltatások vegyes szerver-kliens környezetben
 1. Címtár szolgáltatások használata vegyes szerver-kliens környezetben
@@ -45,7 +45,7 @@ heti 2 óra: 62 óra, heti 3 óra: 93 óra
 1. Levelezési szolgáltatás üzemeltetése vegyes szerver-kliens környezetben
 <br>
 
-            18.3.4. Felhőszolgáltatások
+            18.3.4. Felhőszolgáltatások  15 óra
 1. A privát felhő, a nyilvános felhő és a hibrid felhő jellemzői
 –	Az adatközpontok jellemzői, felépítésük, fizikai és adatbiztonság
 –	Népszerű SaaS megoldások (Onedrive, Dropbox, O365, stb.) kezelése
