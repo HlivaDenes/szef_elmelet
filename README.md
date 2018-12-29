@@ -47,27 +47,30 @@ heti 2 óra: 62 óra, heti 3 óra: 93 óra
 
             18.3.4. Felhőszolgáltatások  15 óra
 1. A privát felhő, a nyilvános felhő és a hibrid felhő jellemzői
-–	Az adatközpontok jellemzői, felépítésük, fizikai és adatbiztonság
-–	Népszerű SaaS megoldások (Onedrive, Dropbox, O365, stb.) kezelése
-–	Ismerkedés a publikus felhőszolgáltatások portál megoldásaival
-–	PaaS alapszolgáltatások konfigurálása (adatbázisok, webszerverek)
-–	Hálózat, tárolás és virtuális gépek az IaaS-ban 
-–	A publikus felhőszolgáltatás címtármegoldásai (AAD)
-1. Felhő alapú szolgáltatások: az infrastruktúra-szolgáltatás (Infrastructure-as-a-Service, IaaS), a platformszolgáltatás (Platform-as-a-Service, PaaS) és a szoftverszolgáltatás (Software-as-a-Service, SaaS) jellemzői
+1. –	Az adatközpontok jellemzői, felépítésük, fizikai és adatbiztonság
+1. –	Népszerű SaaS megoldások (Onedrive, Dropbox, O365, stb.) kezelése
+1. –	Ismerkedés a publikus felhőszolgáltatások portál megoldásaival
+1. –	PaaS alapszolgáltatások konfigurálása (adatbázisok, webszerverek)
+1. –	Hálózat, tárolás és virtuális gépek az IaaS-ban 
+1. –	A publikus felhőszolgáltatás címtármegoldásai (AAD)
+1. Felhő alapú szolgáltatások: 
+1. - az infrastruktúra-szolgáltatás (Infrastructure-as-a-Service, IaaS), 
+1. - a platformszolgáltatás (Platform-as-a-Service, PaaS) 
+1. - a szoftverszolgáltatás (Software-as-a-Service, SaaS) jellemzői
 1. Infrastruktúta-szolgáltatás
 1. Virtuális gépek létrehozása és menedzselése
-–	Virtuális gépek és virtuálisgép-sablonok 
-–	Virtuális lemezek
-–	Virtuális hálózatok; hibrid felhőmegoldások – VPN
-–	Magas rendelkezésre állás biztosítása
-–	Skálázhatóság
-–	Biztonsági mentés
-–	Active Directory a felhőben – Azure Active Directory
+1. –	Virtuális gépek és virtuálisgép-sablonok 
+1. –	Virtuális lemezek
+1. –	Virtuális hálózatok; hibrid felhőmegoldások – VPN
+1. –	Magas rendelkezésre állás biztosítása
+1. –	Skálázhatóság
+1. –	Biztonsági mentés
+1. –	Active Directory a felhőben – Azure Active Directory
 1. Adattárolás a felhőben
-–	Adatlemezek
-–	Fájlmegosztás
-–	Menedzselt adattárolási megoldások
-–	Adatbázisok
+1. –	Adatlemezek
+1. –	Fájlmegosztás
+1. –	Menedzselt adattárolási megoldások
+1. –	Adatbázisok
 <br>
 
 ### FELADATOK:
